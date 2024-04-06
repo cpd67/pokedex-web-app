@@ -1,2 +1,3 @@
-# pokedex-web-app
-Repo for web app that displays information about the first 151 Pokemon.
+Web app that displays information about the first 151 Pokemon.
+
+Data obtained from [PokeAPI](https://pokeapi.co/).
